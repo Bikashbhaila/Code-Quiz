@@ -1,0 +1,59 @@
+
+header {
+    margin: 10px;
+}
+
+span {
+    text-align: right;
+}
+
+#highscore {
+    color: purple;
+    display: inline-block;
+}
+
+.right {
+    float: right;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.text {
+    margin-top: 20px;
+    margin-bottom: 24px;
+}
+
+.btn-primary {
+    background-color: purple;
+    border-color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn-primary:hover {
+    background-color: black;
+    border-color: white;
+}
+
+.v-left {
+    display: block;
+    font-size: 12px;
+    margin: 8px;
+}
+
+.left {
+    text-align: left;
+}
+
+.question {
+    margin-bottom: 12px;
+}
+
+.list-group-item {
+    background-color: purple;
+    color: white;
+    margin: 6px 0 6px 0;
+}
